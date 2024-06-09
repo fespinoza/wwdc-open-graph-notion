@@ -1,0 +1,42 @@
+{
+  "originHash" : "fbad76bf7f6ca30f3a8d9ebb747be58a9801bf05da51a96628d7fad0759aa594",
+  "pins" : [
+    {
+      "identity" : "notionswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/chojnac/NotionSwift",
+      "state" : {
+        "revision" : "56c0c3a0dca35583aab0ef26fe2694e4c303bb72",
+        "version" : "0.8.0"
+      }
+    },
+    {
+      "identity" : "opengraphreader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pzmudzinski/OpenGraphReader",
+      "state" : {
+        "revision" : "790470f4c1d89d7765123be6c0d78bd4d64ea1ea",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "46989693916f56d1186bd59ac15124caef896560",
+        "version" : "1.3.1"
+      }
+    },
+    {
+      "identity" : "swiftsoup",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/scinfu/SwiftSoup.git",
+      "state" : {
+        "revision" : "028487d4a8a291b2fe1b4392b5425b6172056148",
+        "version" : "2.7.2"
+      }
+    }
+  ],
+  "version" : 3
+}
