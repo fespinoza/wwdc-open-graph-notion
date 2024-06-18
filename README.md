@@ -1,5 +1,7 @@
 # OpenGraphNotion
 
+⚠️ Note: this script is built with a given Notion DB structure in mind, [check my youtube video to see it](https://youtu.be/tEAS5rUfMLE?si=h1mgTaUweizTpUr4)
+
 ## Installation
 
 first, set up environment variables
